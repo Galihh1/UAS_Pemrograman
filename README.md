@@ -6,7 +6,7 @@
 
 link youtube : [This Link]()
 
-  PDF : [Klik Text Biru Ini Dong]()
+  PDF : [Klik Disini](SS/Tutorial.pdf)
 
 
 # Main.py
