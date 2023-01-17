@@ -1,5 +1,5 @@
 # <p align="center"> UAS Pemrograman
-   ## <p align="center"> Henri Caesar Bimantara
+   ## <p align="center"> Galih Pangestu
 
 ![image.png](SS/judul.jpg)
 <br>
