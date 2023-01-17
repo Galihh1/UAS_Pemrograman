@@ -148,6 +148,7 @@ def cari_data():
     from view.view_nilai import cetak_hasil_pencarian
     cetak_hasil_pencarian(input("Masukkan Nama yang ingin dicari : "))
 ```
+
 # <p align="center"> Hasil Run Program
 # Modul Tambah Data
 ![image.png](SS/tambah.png)
